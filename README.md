@@ -68,6 +68,33 @@ Exploring
   />
 </p>
 
+---
+
+## 📊 GitHub Analytics
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=adkuai&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=adkuai&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 Contribution Activity
+
 <table align="center" width="100%">
   <tr>
     <td width="75%" align="center">
