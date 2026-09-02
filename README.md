@@ -86,28 +86,7 @@ Exploring
 
 ---
 
-## 📈 Contribution Activity
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3>📈 Contribution Activity</h3>
-      <img
-        src="[https://github-contribution-graph.ez4o.com/?username=adkuai&last_n_days=365](https://github-contribution-graph.ez4o.com/?username=adkuai&last_n_days=365"
-        alt="Contribution Activity"
-        width="100%"
-      />
-    </td>
-    <td width="50%" align="center">
-      <h3>📌 GitHub Overview</h3>
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adkuai&theme=tokyonight"
-        alt="GitHub Overview"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+## 📌 GitHub Overview
 
 <table align="center" width="100%">
   <tr>
