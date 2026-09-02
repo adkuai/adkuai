@@ -171,16 +171,7 @@ A collection of Django development work exploring authentication, CRUD operation
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adkuai&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkuai&layout=compact&hide_border=true&theme=transparent" height="180"/>
-</p>
-
----
-
-# 🔥 Contribution Streak
+# 🔥 GitHub Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=adkuai&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
@@ -191,7 +182,7 @@ A collection of Django development work exploring authentication, CRUD operation
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adkuai&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-stats-extended.vercel.app/apiusername=adkuai&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github""/>
 </p>
 
 ---
