@@ -28,13 +28,13 @@
 
 ## 👨‍💻 About Me
 
-* 🔭 I’m currently working on **[portfolio_adkuai](https://github.com/adkuai/portfolio-v1)**
-* 🌱 I’m currently learning **Backend Development & DevOps**
-* 💻 Interested in **Full Stack Development, Python, AI & Backend Engineering**
-* 🤝 I’m looking to collaborate on **simple, useful and lightweight projects**
-* 🛠️ I’m improving my skills in **Django, FastAPI, Frontend, DevOps & Databases**
-* 🧠 I enjoy learning through **building projects and solving programming problems**
-* 📫 How to reach me: **[adityaup5010@gmail.com](mailto:adityaup5010@gmail.com)**
+- 🔭 I’m currently working on **[portfolio_adkuai](https://github.com/adkuai/portfolio-v1)**
+- 🌱 I’m currently learning **Backend Development & DevOps**
+- 💻 Interested in **Full Stack Development, Python, AI & Backend Engineering**
+- 🤝 I’m looking to collaborate on **simple, useful and lightweight projects**
+- 🛠️ I’m improving my skills in **Django, FastAPI, Frontend, DevOps & Databases**
+- 🧠 I enjoy learning through **building projects and solving programming problems**
+- 📫 How to reach me: **adityaup5010@gmail.com**
 
 ---
 
@@ -231,7 +231,7 @@ Django development work exploring authentication, CRUD operations, forms, templa
 
 <a href="https://github.com/adkuai">
 
-<img width="950" src="https://github-readme-activity-graph.vercel.app/graph?username=adkuai&theme=github-compact&hide_border=false&area=true&custom_title=Aditya's%20GitHub%20Contribution%20Activity" alt="Aditya's GitHub Contribution Activity Graph"/>
+<img width="950" src="https://github-contribution-graph.ez4o.com/?username=adkuai&last_n_days=365" alt="Aditya's GitHub Contribution Activity Graph"/>
 
 </a>
 
@@ -253,7 +253,7 @@ Django development work exploring authentication, CRUD operations, forms, templa
 
 <a href="https://github.com/adkuai">
 
-<img width="950" src="https://github-profile-trophy.vercel.app/?username=adkuai&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" alt="Aditya's GitHub Trophies"/>
+<img width="950" src="https://trophy.ryglcloud.net/?username=adkuai&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" alt="Aditya's GitHub Trophies"/>
 
 </a>
 
