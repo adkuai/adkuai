@@ -6,7 +6,8 @@
 
 I build practical software, explore backend engineering, and continuously improve my development skills.
 
-<a href="https://github.com/adkuai"> <img src="https://img.shields.io/github/followers/adkuai?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/> </a> <a href="https://github.com/adkuai?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge&logo=github" alt="Repositories"/> </a> <a href="https://www.linkedin.com/in/adkuai/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/> </a> <img src="https://komarev.com/ghpvc/?username=adkuai&label=Profile%20Views&color=2a70c1&style=for-the-badge" alt="Profile Views"/>
+<a href="https://github.com/adkuai"> <img src="https://img.shields.io/github/followers/adkuai?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/> </a> <a href="https://github.com/adkuai?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge&logo=github" alt="Repositories"/> </a> <a href="https://www.linkedin.com/in/adkuai/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/> <a href="https://x.com/adkuai"> <img src="https://img.shields.io/badge/twitter-Connect-blue?style=for-the-badge&logo=x" alt="X (formerly Twitter)"/> </a> <a href="https://leetcode.com/u/adkuai/"> <img src="https://img.shields.io/badge/leetcode-Profile-blue?style=for-the-badge&logo=leetcode" alt="Leetcode"/> </a>
+ <img src="https://komarev.com/ghpvc/?username=adkuai&label=Profile%20Views&color=2a70c1&style=for-the-badge" alt="Profile Views"/>
 
 
 </div>
