@@ -93,7 +93,7 @@ Exploring
     <td width="50%" align="center">
       <h3>📈 Contribution Activity</h3>
       <img
-        src="https://github-contribution-graph.ez4o.com/?username=adkuai&last_n_days=365"
+        src="[https://github-contribution-graph.ez4o.com/?username=adkuai&last_n_days=365](https://github-contribution-graph.ez4o.com/?username=adkuai&last_n_days=365"
         alt="Contribution Activity"
         width="100%"
       />
