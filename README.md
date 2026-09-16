@@ -57,7 +57,7 @@ Exploring
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,python,go,django,fastapi,tailwind,mongodb,mysql,postgres,docker,kubernetes,git,github,linux,vercel,aws,gcp,bash,pydantic&perline=18&size=10"
+    src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,python,go,django,fastapi,tailwind,mongodb,mysql,postgres,docker,kubernetes,git,github,linux,vercel,aws,gcp,bash,Pydantic&perline=18&size=10"
     alt="Tech Stack"
   />
 </p>
