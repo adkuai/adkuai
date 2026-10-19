@@ -22,7 +22,7 @@ I build practical software, explore backend engineering, and continuously improv
 * 🤝 Open to collaborating on **simple, useful and lightweight projects**
 * 🛠️ Looking to improve in **Django, FastAPI, Frontend, DevOps and Databases**
 * 📚 Learning by building projects and solving programming problems
-* 📫 Reach me at **[adityaup5010@gmail.com](mailto:adityaup5010@gmail.com)**
+* 📫 Reach me at **[adityaup5010@gmail.com](mailto:adityaupadhyaydata@gmail.com)**
 
 ---
 
