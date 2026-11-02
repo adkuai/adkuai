@@ -9,7 +9,7 @@
       📫 Reach me at adityaupadhyayname@gmail.com
 
 
-<h2 align="center">🌐 Socials</h2>
+<h1 align="center">🌐 Socials</h1>
 
 <div align="center">
   <a href="https://discord.gg/Kb2xutK4C">
