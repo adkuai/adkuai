@@ -1,5 +1,11 @@
 # 💫 About Me:
-      Currently working on portfolio_adkuai<br>🌱 Currently learning Backend Development & DevOps<br>💻 Interested in Full Stack Development, Python, AI and Backend Engineering<br>🤝 Open to collaborating on simple, useful and lightweight projects<br>🛠️ Looking to improve in Django, FastAPI, Frontend, DevOps and Databases<br>📚 Learning by building projects and solving programming problems<br>📫 Reach me at adityaupadhyayname@gmail.com
+      Currently working on portfolio_adkuai<br>
+      🌱 Currently learning Backend Development & DevOps<br>
+      💻 Interested in Full Stack Development, Python, AI and Backend Engineering<br>
+      🤝 Open to collaborating on simple, useful and lightweight projects<br>
+      🛠️ Looking to improve in Django, FastAPI, Frontend, DevOps and Databases<br>
+      📚 Learning by building projects and solving programming problems<br>
+      📫 Reach me at adityaupadhyayname@gmail.com
 
 
 ## 🌐 Socials:
