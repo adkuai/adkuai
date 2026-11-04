@@ -26,7 +26,4 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=adkuai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
----
-[![](https://komarev.com/ghpvc/?username=adkuai&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
