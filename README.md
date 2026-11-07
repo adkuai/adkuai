@@ -1,11 +1,11 @@
 # Hi, I'm Aditya Kumar Upadhyay👋
 # 💫 About Me:
-      Currently working on portfolio_adkuai<br>
-      🌱 Currently learning Backend Development & DevOps<br>
-      💻 Interested in Full Stack Development, Python, AI and Backend Engineering<br>
-      🤝 Open to collaborating on simple, useful and lightweight projects<br>
-      🛠️ Looking to improve in Django, FastAPI, Frontend, DevOps and Databases<br>
-      📚 Learning by building projects and solving programming problems<br>
+      Currently working on portfolio_adkuai
+      🌱 Currently learning Backend Development & DevOps
+      💻 Interested in Full Stack Development, Python, AI and Backend Engineering
+      🤝 Open to collaborating on simple, useful and lightweight projects
+      🛠️ Looking to improve in Django, FastAPI, Frontend, DevOps and Databases
+      📚 Learning by building projects and solving programming problems
       📫 Reach me at adityaupadhyayname@gmail.com
 
 
