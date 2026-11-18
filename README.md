@@ -1,4 +1,4 @@
-# Hi, I'm Aditya Kumar Upadhyay👋
+# Hi, I'm Aditya👋
 # 💫 About Me:
       Currently working on portfolio_adkuai
       🌱 Currently learning Backend Development & DevOps
